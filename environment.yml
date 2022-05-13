@@ -11,6 +11,6 @@ dependencies:
   - xrft
   - xclim>=0.30.0
   - bias_correction
-  # Visualization
   - matplotlib-base
+  - seaborn
   - nc-time-axis>=1.4.0 
