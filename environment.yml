@@ -13,4 +13,5 @@ dependencies:
   - bias_correction
   - matplotlib-base
   - seaborn
-  - nc-time-axis>=1.4.0 
+  - nc-time-axis>=1.4.0
+  - jupyterlab
