@@ -1,0 +1,8 @@
+xarray
+climpred
+xskillscore
+xclim
+bias-correction
+matplotlib
+seaborn
+netcdf4
